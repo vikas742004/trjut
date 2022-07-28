@@ -1,0 +1,21 @@
+.text-box{
+    width: 90%;
+    color: crimson;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+.text-box h1{
+    font-size: 70px;
+}
+.fig a{
+    color: yellow;
+    text-decoration: none;
+    font-size: 60px;
+    position: absolute;
+    top: 90%;
+    left: 40%;
+    text-align: center;
+}
